@@ -186,7 +186,55 @@ Andersen 的"关于我们"不讲工厂面积、不讲吨位、不讲设备。它
 
 ---
 
-## 5. 内容策略分析
+## 5. FAQ / 常见问题分析
+
+### FAQ 页面结构
+
+Andersen 的 FAQ 不在单一 `/faq/` 页面，而是一个**完整的技术支持知识库** (`support/faqs/` + `helpcenter.andersenwindows.com`)：
+
+| 分类 | 内容 |
+|------|------|
+| **质保 (Warranty)** | 20 年玻璃 / 10 年非玻璃 / 2 年安装质保 |
+| **订购 (Ordering)** | 交期、定价、配送 |
+| **尺寸 (Sizing)** | 1/8" 精度，不推荐 DIY 测量 |
+| **安装 (Installation)** | 找认证安装商、技术文档下载 |
+| **维修 (Service)** | 零件店、不推荐自行改装（会失效质保） |
+| **表面处理 (Finishing)** | Sherwin-Williams 色号匹配 |
+
+### FAQ 回答模板
+
+```
+Q: [业主自然问句]
+A:
+  → 直接建议（1 句）
+  → 为什么（1-2 句解释）
+  → 下一步（链接到具体资源或工具）
+```
+
+### FAQ 写法特点
+
+| 维度 | 分析 |
+|------|------|
+| **语调** | 权威但温和 — "we strongly recommend" 而不是"you must" |
+| **数据密度** | 中等 — 质保年限明确，但技术参数留给产品页 |
+| **CTA 策略** | 每条 FAQ 末尾都有下一步链接 — 找安装商 / 下载文档 / 联系客服 |
+| **SEO 优化** | FAQ 独立 URL，结构化标记，搜索友好 |
+| **用户分层** | 业主 FAQ + 专业版 FAQ 分开 |
+
+### 优质 FAQ 范本
+
+**Q: Can I measure and install windows myself?**
+> We strongly recommend having an experienced contractor measure and install your windows. Replacement measuring is complex — openings can be out of square, and sizing depends on flanged, full-frame, or insert options. Andersen windows can be specified to 1/8" precision. Use our Service Locator to find a certified installer near you.
+
+**Q: What does the warranty cover and for how long?**
+> Non-coastal Andersen products carry a 20-year limited warranty on glass and a 10-year limited warranty on non-glass components. Warranties are transferable from one homeowner to the next (Owner-2-Owner®). Installation by an Andersen Certified Contractor carries a separate 2-year installation warranty. Register your warranty online with your product type and installation date.
+
+### 可复用技巧
+- **"不建议 DIY"的诚实表达** — 不是不让你装，是帮你避免错误，顺便推荐认证安装商
+- **知识库而非 FAQ 页面** — 可搜索、可分类、可深度展开，比静态 Q&A 列表高级
+- **每条 FAQ 有下一步** — 从不错过转化机会
+
+---
 
 ### 内容矩阵
 
