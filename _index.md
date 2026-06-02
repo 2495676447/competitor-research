@@ -8,6 +8,7 @@
 |---|------|------|---------|---------|
 | 1 | Andersen Windows | 国际品牌 | `international/andersen-windows.md` | 2026-06-02 |
 | 2 | 亿合门窗 EEHE Group | 国内品牌 | `domestic/eehe-group.md` | 2026-06-02 |
+| 3 | 万加门窗 WANJIA | 中国出口商 | `exporters/wanjia-windows.md` | 2026-06-02 |
 
 ## 待分析清单
 

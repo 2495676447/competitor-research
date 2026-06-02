@@ -8,4 +8,4 @@
 - [亿合门窗 EEHE Group](domestic/eehe-group.md)
 
 - 🚢 **中国出口商**
-- *待迁移*
+- [万加门窗 WANJIA](exporters/wanjia-windows.md)
