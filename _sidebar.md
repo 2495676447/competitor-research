@@ -1,5 +1,6 @@
 - 📊 **总览**
 - [分析索引](_index.md)
+- [SEO 横向对比](_seo-summary.md)
 
 - 🌍 **国际品牌**
 - [Andersen Windows](international/andersen-windows.md)

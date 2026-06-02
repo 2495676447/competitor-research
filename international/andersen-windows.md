@@ -354,3 +354,256 @@ B2B 专业轨 → 理性驱动 → 产品性能 + 低返修率 + 技术支持
 4. **近期做** — 项目案例模板。从第一个订单开始用专业摄影记录，按"设计挑战→方案→效果→启示"格式呈现。
 
 5. **长期做** — "为什么选择我们"品牌故事。不讲工厂面积，讲信念、讲第一次、讲执着。Andersen 花了 120 年，你可以从现在开始积累。
+
+---
+
+# 📊 SEO 内容分析
+
+## A. 页面类型地图
+
+### 整体架构
+
+```
+andersenwindows.com/
+├── /windows-and-doors/           ← 产品页（核心）
+│   ├── /windows/                 ← 8 种窗型
+│   ├── /doors/                   ← 5 种门型
+│   ├── /series/                  ← 6 个系列（100/200/400/A/E/Aluminum）
+│   └── /your-perfect-match/      ← 互动选品工具
+├── /ideas-and-inspiration/       ← 内容营销（SEO 主力）
+│   ├── /blog/                    ← 项目案例 + 设计趋势
+│   └── /why-andersen             ← 品牌信任页
+├── /support/                     ← 售后 + FAQ（SEO 长尾）
+│   └── /faqs/                    ← 结构化 FAQ 知识库
+├── /for-professionals/           ← B2B 专区
+│   ├── /architect/               ← 建筑师资源
+│   └── /builder/                 ← 承建商资源
+├── /about/                       ← 品牌故事
+├── /warranty/                    ← 质保页（独立高价值页）
+└── 3 个子域名:
+    ├── helpcenter.andersenwindows.com   ← 知识库
+    ├── parts.andersenwindows.com        ← 零件店
+    └── locations.andersenwindows.com    ← 经销商定位
+```
+
+### 页面类型统计
+
+| 页面类型 | 估计数量 | SEO 角色 |
+|----------|---------|---------|
+| 产品系列页 | 6 | 交易型关键词（"andersen 400 series windows"） |
+| 产品类型页 | 13+ | 品类关键词（"casement windows""sliding doors"） |
+| 博客文章 | 50+ | 信息型长尾（"kitchen remodel window replacement"） |
+| FAQ 页 | 30+ | 问答型长尾（"how long do windows last"） |
+| 品牌页 | 8+ | 品牌关键词（"why andersen"） |
+| 专业资源页 | 10+ | B2B 关键词（"window specifications for architects"） |
+| 质保/售后页 | 5+ | 售后关键词（"andersen warranty claim"） |
+
+**关键发现**: Andersen 的页面类型覆盖了完整的买家旅程 — 从信息搜索（博客）→ 评估比较（系列页）→ 决策购买（经销商定位）→ 售后（FAQ/零件）。
+
+## B. On-page SEO
+
+### Title 标签结构
+
+```
+首页:    Andersen Windows & Doors | [隐式品牌]
+产品系列: 100 Series Windows & Doors | Andersen Windows
+产品类型: Casement Windows | Andersen Windows
+博客文章: [标题] | Andersen Windows
+品牌页:   Why Andersen | Andersen Windows
+FAQ:     [问题] | Andersen Windows Support
+```
+
+**模式**: `[具体内容] | Andersen Windows` — 品牌名始终在末尾，具体内容在前。
+
+### Meta Description 写法
+
+推测模式（基于 SEO 最佳实践）：
+- **产品页**: 150-160 字符，包含系列名 + 材料 + 核心卖点 + CTA
+- **博客**: 自然语言摘要，包含主关键词
+- **FAQ**: 问题本身作为 description，直接匹配搜索意图
+
+### H1/H2 结构模板
+
+```
+产品系列页:
+  H1: [系列名] Windows & Doors
+  H2: Why [系列名]? / Styles / Features / Performance / Gallery
+
+博客案例页:
+  H1: [项目标题 — 含地点和风格]
+  H2: The Challenge / The Solution / The Result / Takeaways
+
+FAQ 页:
+  H1: Frequently Asked Questions
+  H2: Warranty / Ordering / Sizing / Installation / Finishing
+  H3: [具体问题]
+```
+
+### URL 结构
+
+```
+产品:  /windows-and-doors/series/400-series
+      /windows-and-doors/windows/casement
+博客:  /ideas-and-inspiration/blog/projects/michelle-adams-indoor-outdoor
+FAQ:   /support/faqs/
+品牌:  /about/our-story
+专业:  /for-professionals/architect
+```
+
+**特点**: URL 短、层级清晰、关键词自然嵌入。没有参数、没有乱码、没有冗余。
+
+## C. 内容资产审计
+
+### 最有价值的页面（按 SEO 贡献排序）
+
+| 优先级 | 页面类型 | 为什么值钱 |
+|--------|---------|-----------|
+| 🥇 | 产品系列页 | 交易意图关键词，直接转化 |
+| 🥈 | FAQ/支持页 | 长尾问答流量，低竞争高转化 |
+| 🥉 | 博客项目案例 | 信息意图流量，品牌教育 |
+| 4 | 品牌/质保页 | 信任建设，辅助转化 |
+| 5 | 专业资源页 | B2B 建筑师流量，行业权威 |
+
+### 内容深度评分
+
+| 内容类型 | 字数 | 图片 | 结构化程度 |
+|----------|------|------|-----------|
+| 产品系列页 | 500-1000 | 5-10 张产品图 | ★★★★★ |
+| 博客案例 | 800-1500 | 10-20 张专业摄影 | ★★★★ |
+| FAQ 页 | 100-300/条 | 少量 | ★★★★★ |
+| 品牌故事 | 800-1200 | 历史图片 | ★★★ |
+
+## D. FAQ SEO 策略（深度）
+
+### FAQ 分类的 SEO 逻辑
+
+Andersen 的 FAQ 分类不是随意分的，而是按**搜索意图**分组：
+
+| FAQ 分类 | 目标搜索意图 | 典型搜索词 |
+|----------|------------|-----------|
+| Warranty | 售后焦虑 | "andersen warranty length""window warranty coverage" |
+| Ordering | 购买决策 | "how much do andersen windows cost""andersen lead time" |
+| Sizing | DIY/改装 | "standard window sizes""how to measure windows" |
+| Installation | 安装疑虑 | "can I install windows myself""andersen installation guide" |
+| Finishing | 个性化 | "andersen window colors""sherwin williams match andersen" |
+
+### FAQ Schema 策略
+
+Andersen 的 FAQ 页面**极可能**使用了 `FAQPage` JSON-LD Schema，因为：
+- 分类结构清晰，适合结构化标记
+- 每个 Q 的答案独立完整
+- Google 搜索"andersen window warranty"经常展示 FAQ 富文本结果
+
+### 可复用的 FAQ 标题公式
+
+```
+"How [形容词] [主题]?"          → "How long do Andersen windows last?"
+"What is the [名词] for [主题]?"  → "What is the warranty for Andersen windows?"
+"Can I [动作] [主题]?"           → "Can I install Andersen windows myself?"
+"How do I [动作] [主题]?"        → "How do I register my Andersen warranty?"
+"What [名词] [系列] offer?"      → "What glass options does the 400 Series offer?"
+```
+
+## E. 内容主题矩阵
+
+### 已覆盖的高频主题
+
+| 主题 | 内容形式 | 目标关键词 |
+|------|---------|-----------|
+| 室内外生活连接 | 项目案例博客 | "indoor outdoor living""folding door remodel" |
+| 厨房翻新换窗 | 博客指南 | "kitchen remodel window replacement" |
+| 窗户→门改造 | How-to 博客 | "turn window into door""window to door conversion" |
+| 极简/现代设计 | 博客 + 产品页 | "modern black windows""slim frame windows" |
+| 农舍风/传统风 | 博客 + 设计师合作 | "farmhouse windows""colonial style windows" |
+| 能效升级 | 产品页 + ENERGY STAR | "energy efficient windows""ENERGY STAR windows 2025" |
+| 飓风/沿海防护 | 产品页 | "hurricane impact windows""coastal windows" |
+| 历史建筑翻新 | 博客案例 | "historic home window replacement" |
+| 噪音降低 | 产品页 | "soundproof windows""noise reduction windows" |
+
+### 主题空白（机会）
+
+| 未覆盖主题 | 搜索量潜力 | 建议内容形式 |
+|-----------|----------|------------|
+| 窗户 vs 竞品对比 | 高 | 对比指南 |
+| 窗户维护保养日历 | 中 | 季刊式 Checklist |
+| 不同气候区窗户选择 | 高 | 互动地图 + 指南 |
+| 窗户融资/预算规划 | 中 | 计算器 + 指南 |
+| 出租物业窗户升级 ROI | 中 | 数据报告 |
+
+## F. 可抄作业清单
+
+### 标题模板
+
+```
+产品系列: [系列名] [产品类型] | [特性标签] | [品牌名]
+  例: "400 Series Casement Windows | Wood Interior, Vinyl Exterior | Andersen"
+
+博客案例: [项目名]: [形容词] [风格] [改造类型] in [地点]
+  例: "Michelle Adams Ranch: California-Style Indoor/Outdoor Living in Michigan"
+
+FAQ: [完整自然问句] | [品牌名] Support
+  例: "How Long Do Andersen Windows Last? | Andersen Windows Support"
+```
+
+### H2 结构模板
+
+```
+产品页:
+  H2: Why Choose [系列名]?
+  H2: Styles & Configurations
+  H2: Performance & Efficiency
+  H2: Colors, Finishes & Hardware
+  H2: Inspiration Gallery
+
+博客案例:
+  H2: The Design Challenge
+  H2: Our Solution
+  H2: The Result
+  H2: Key Takeaways for Your Home
+```
+
+### FAQ 问题库（可直接复用的话题）
+
+**质保类**:
+- How long is the warranty on [产品]?
+- What does the warranty cover?
+- Is the warranty transferable?
+- How do I make a warranty claim?
+
+**订购类**:
+- How much do [产品] cost?
+- What is the lead time for [产品]?
+- Can I order samples before placing a bulk order?
+- What is the minimum order quantity?
+
+**技术类**:
+- What are [产品] made of?
+- What energy rating do your windows achieve?
+- Are your products suitable for [气候/区域]?
+- What certifications do your products hold?
+
+**安装类**:
+- Do you provide installation support?
+- Can local contractors install your products?
+- What technical documentation do you provide?
+
+### Schema 代码片段
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "[完整自然问句]",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "[答案 — 含具体数字 + 标准引用 + 下一步 CTA]"
+    }
+  }]
+}
+```
+
+---
+
+> **总结**: Andersen 的 SEO 内容体系是这个行业的最高标准。它的核心策略可以浓缩为：**产品页打交易词 → 博客打信息词 → FAQ 打问答词 → 专业页打 B2B 词**，四层内容覆盖全部买家旅程。我们的新项目应该直接复制这个结构，用工程数据密度替代他们的品牌历史密度。
